@@ -1,0 +1,12 @@
+{
+  "id": "Skill_Based_Template_4h",
+  "template_type": "skill_based",
+  "description": "A hands‑on template designed to develop practical skills through guided practice and step‑by‑step exercises for intermediate learners.",
+  "learning_goal": "Help learners acquire practical abilities and confidence to apply tools and techniques in real-world contexts.",
+  "domains": ["development", "programming", "design", "technical_training"],
+  "duration_min": 2,
+  "duration_max": 4,
+  "levels": ["beginner", "intermediate"],
+  "teaching_styles": ["hands_on", "practice_based", "interactive_learning"],
+  "recommended_for": ["skill_development", "guided_projects", "technical_practice"]
+}

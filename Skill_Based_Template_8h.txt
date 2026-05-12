@@ -1,0 +1,12 @@
+{
+  "id": "Skill_Based_Template_8h",
+  "template_type": "skill_based",
+  "description": "A hands‑on template designed to develop practical skills through project-based learning and real-world challenges.",
+  "learning_goal": "Help learners acquire practical abilities and confidence to apply tools and techniques in real‑world contexts.",
+  "domains": ["development", "programming", "software_engineering", "design"],
+  "duration_min": 4,
+  "duration_max": 8,
+  "levels": ["intermediate"],
+  "teaching_styles": ["project_based", "hands_on", "challenge_based"],
+  "recommended_for": ["practical_mastery", "portfolio_building", "real_world_skills"]
+}

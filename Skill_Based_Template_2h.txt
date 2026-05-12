@@ -1,0 +1,12 @@
+{
+  "id": "Skill_Based_Template_2h",
+  "template_type": "skill_based",
+  "description": "A hands‑on template designed to develop practical skills through guided practice and step‑by‑step exercises for beginners.",
+  "learning_goal": "Help learners acquire practical abilities and confidence to apply tools and techniques in real‑world contexts.",
+  "domains": ["programming", "design", "software_tools", "technical_skills"],
+  "duration_min": 1,
+  "duration_max": 2,
+  "levels": ["beginner"],
+  "teaching_styles": ["hands_on", "guided_practice", "step_by_step"],
+  "recommended_for": ["basic_skill_training", "tool_introduction", "quick_practice"]
+}

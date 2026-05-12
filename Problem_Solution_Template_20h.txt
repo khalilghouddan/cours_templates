@@ -1,0 +1,12 @@
+{
+  "id": "Problem_Solution_Template_20h",
+  "template_type": "problem_solution",
+  "description": "A high-level strategy template designed for enterprise decision-making, consulting-style analysis, and professional leadership training.",
+  "learning_goal": "Help learners identify key business challenges and develop effective, strategic solutions through critical analysis.",
+  "domains": ["business_consulting", "strategy", "leadership", "enterprise_management"],
+  "duration_min": 10,
+  "duration_max": 20,
+  "levels": ["advanced", "professional"],
+  "teaching_styles": ["advanced_strategy", "consulting_style", "executive_problem_solving"],
+  "recommended_for": ["enterprise_decision_making", "high_level_strategy", "professional_business_training"]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "Skill_Based_Template_20h",
+  "template_type": "skill_based",
+  "description": "An intensive, bootcamp-style template designed for professional skill building and advanced project mastery.",
+  "learning_goal": "Help learners acquire practical abilities and confidence to apply tools and techniques in real‑world contexts.",
+  "domains": ["software_engineering", "full_stack_development", "ai_engineering", "technical_bootcamp"],
+  "duration_min": 10,
+  "duration_max": 20,
+  "levels": ["intermediate", "advanced"],
+  "teaching_styles": ["intensive_hands_on", "project_based", "bootcamp_style"],
+  "recommended_for": ["job_ready_training", "professional_skill_building", "advanced_projects"]
+}
